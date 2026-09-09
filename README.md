@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Hi 👋, I'm Ali</h1>
 
 <h3 align="center">
@@ -315,4 +314,3 @@ Planned functionality includes:
 <p align="center">
   <b>Always learning. Always building.</b>
 </p>
-```
